@@ -265,8 +265,9 @@ UsedLibraryUrn="urn:adsk.eagle:library:196"
 UsedLibraryUrn="urn:adsk.eagle:library:197"
 UsedLibraryUrn="urn:adsk.eagle:library:198"
 UsedLibraryUrn="urn:adsk.eagle:library:199"
-UsedLibrary="C:/Users/miran/OneDrive/Documents/EAGLE/libraries/FBGA256.lbr"
 UsedLibrary="C:/Users/miran/OneDrive/Documents/EAGLE/libraries/ATMEGA328PB-AU.lbr"
+UsedLibrary="C:/Users/miran/OneDrive/Documents/EAGLE/libraries/FBGA256.lbr"
+UsedLibrary="C:/Users/miran/OneDrive/Documents/GitHub/filament-winder/Electronics/fillament-winder.lbr"
 
 [Win_1]
 Type="Control Panel"
